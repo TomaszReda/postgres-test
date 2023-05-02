@@ -1,1 +1,1 @@
-./vacuum_analyze_schema.sh postgres localhost 5432 test testowy
+./vacuum_analyze_schema.sh postgres postgres localhost 5432 test testowy
